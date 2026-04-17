@@ -1,3 +1,3 @@
 # practice2
 practice
-Author-Harsh
+Author-Harsh Nayak
